@@ -1,0 +1,6 @@
+{
+  "name": "Magnific Space Notes",
+  "description": "Bloco de notas espacial infinito com notas flutuantes, sincronização em tempo real entre dispositivos, criptografia ponta a ponta (E2EE), listas de tarefas, imagens, etiquetas e integração com calendários.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
